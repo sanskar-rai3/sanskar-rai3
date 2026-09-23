@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sanskar Rai
 
-<!--
-**sanskar-rai3/sanskar-rai3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning **programming and mathematics**.
 
-Here are some ideas to get you started:
+I enjoy building things, solving problems, and understanding how things work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I like
+
+*  Programming
+*  Mathematics
+*  Understanding how things work
+
+### Languages & Tools
+
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![CMake](https://skillicons.dev/icons?i=cmake)
+![Make](https://skillicons.dev/icons?i=cmake)
+![GDB](https://skillicons.dev/icons?i=gdb)
+![Neovim](https://skillicons.dev/icons?i=neovim)
+![VS Code](https://skillicons.dev/icons?i=vscode)
