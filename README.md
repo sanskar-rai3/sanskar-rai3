@@ -6,7 +6,7 @@
 
 ###
 
-I'm a student learning **programming and mathematics**.
+I'm a student learning **programming, mathematics and physics**.
 
 I enjoy building things, solving problems, and understanding how things work.
 
